@@ -108,7 +108,7 @@
 
 本项目将定期更新新的镜像站点和使用教程！  
 欢迎通过以下渠道联系我们：
-- **提交问题**：通过 [GitHub Issues](https://github.com/nasdli/chatgpt-4o/issues) 反馈问题。
+
 - **贡献资源**：如果您发现其他优质站点，可通过 Pull Request 提交。
 
 ### 🌟 支持我们：
